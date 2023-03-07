@@ -51,7 +51,7 @@ CSS Tricks also have a fantastic article on CSS Grid for some further explanatio
 [CSS Tricks - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 
-## Part III: Adding Styling to your Website
+## Part III: Adding Styling to my Website
 
 Now it was time to truly realise my design! Using my previous wireframe and HTML document, began adding positional-based styling to my key design elements. Followed this up with some aesthetic properties
 
